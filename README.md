@@ -8,19 +8,19 @@ Used DAX measures and Power Query for data cleaning, transformation, and dashboa
 Generated actionable insights through interactive charts, trend analysis, and business reporting.
 Designed customer rating and transaction analysis reports to support business decision-making.
 Skills Used:
-Power BI
-SQL
-DAX
-Power Query
-Data Visualization
-Dashboard Development
-Business Intelligence
-KPI Reporting
-Data Cleaning & Transformation
-Sales Analytics
-Customer Analytics
-Interactive Reporting
-Trend Analysis
-Map Visualization
-Data Modeling
+Power BI,
+SQL,
+DAX,
+Power Query,
+Data Visualization,
+Dashboard Development,
+Business Intelligence,
+KPI Reporting,
+Data Cleaning & Transformation,
+Sales Analytics,
+Customer Analytics,
+Interactive Reporting,
+Trend Analysis,
+Map Visualization,
+Data Modeling,
 Business Reporting
